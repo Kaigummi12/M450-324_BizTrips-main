@@ -45,6 +45,8 @@ function TripList({ addToWishlist }) {
               <option value="4">April</option>
               <option value="5">Mai</option>
               <option value="6">June</option>
+              <option value="7">July</option>
+              <option value="8">August</option>
             </select>
             {month && (
               <h2>
